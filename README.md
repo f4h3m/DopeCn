@@ -1,24 +1,40 @@
-# registry-template
+# DopeCN
 
-You can use the `shadcn` CLI to run your own component registry. Running your own
-component registry allows you to distribute your custom components, hooks, pages, and
-other files to any React project.
+A modern UI component library built with Next.js, Tailwind CSS, and shadcn/ui. DopeCN provides beautifully designed, accessible, and customizable components for your React applications.
 
-> [!IMPORTANT]  
-> This template uses Tailwind v4. For Tailwind v3, see [registry-template-v3](https://github.com/shadcn-ui/registry-template-v3).
 
-## Getting Started
 
-This is a template for creating a custom registry using Next.js.
+## ✨ Features
 
-- The template uses a `registry.json` file to define components and their files.
-- The `shadcn build` command is used to build the registry.
-- The registry items are served as static files under `public/r/[name].json`.
-- The template also includes a route handler for serving registry items.
-- Every registry item are compatible with the `shadcn` CLI.
-- We have also added v0 integration using the `Open in v0` api.
+- 🎨 **Beautiful Components** - Carefully crafted UI components with modern design
+- 🚀 **Built on shadcn/ui** - Leverages the power of shadcn component architecture
+- 📱 **Fully Responsive** - All components work seamlessly across devices
+- 🎯 **TypeScript** - Full type safety with TypeScript
+- ⚡ **Performance Optimized** - Built with Next.js 15 and React 19
+- 🎭 **Customizable** - Easy to customize with Tailwind CSS
+- 📦 **Component Registry** - Use the `shadcn` CLI to add components to your project
 
-## Documentation
 
-Visit the [shadcn documentation](https://ui.shadcn.com/docs/registry) to view the full documentation.
-# DopeCn
+## 📖 Documentation
+
+Visit the component showcase at `/blocks` to see live examples and documentation for each component.
+
+For shadcn registry documentation, visit [shadcn documentation](https://ui.shadcn.com/docs/registry).
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+MIT License - feel free to use this project for your own purposes.
+
+## 🙏 Acknowledgments
+
+- Built with [shadcn/ui](https://ui.shadcn.com)
+- Powered by [Next.js](https://nextjs.org)
+- Styled with [Tailwind CSS](https://tailwindcss.com)
+
+---
+
+Made with ❤️ by the DopeCN team
